@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Software Engineer",
+        "company": "Acme Inc.",
+        "location": "New York, NY",
+        "description": "We are looking for a Software Engineer to join our team. The ideal candidate will have experience with Java and React.",
+        "apply_link": "https://www.acmeinc.com/jobs/software-engineer"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Big Data Inc.",
+        "location": "San Francisco, CA",
+        "description": "We are seeking a Data Analyst to join our team. The candidate should have experience with SQL and Python.",
+        "apply_link": "https://www.bigdatainc.com/jobs/data-analyst"
+    },
+    {
+        "title": "Product Manager",
+        "company": "Tech Co.",
+        "location": "Los Angeles, CA",
+        "description": "We are looking for a Product Manager to join our team. The ideal candidate will have experience with product development and marketing.",
+        "apply_link": "https://www.techco.com/jobs/product-manager"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Google",
+        "location": "Mountain View, CA",
+        "description": "We are looking for a software engineer to join our team at Google. The ideal candidate will have experience with Java and C++, as well as a strong understanding of data structures and algorithms. This is a full-time position with competitive salary and benefits.",
+        "apply_link": "https://careers.google.com/jobs/results/1175242768122630144-software-engineer/"
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Facebook",
+        "location": "Menlo Park, CA",
+        "description": "Facebook is seeking a data scientist to join our team. The ideal candidate will have a PhD in a quantitative field and experience with machine learning and statistical modeling. This is a full-time position with competitive salary and benefits.",
+        "apply_link": "https://www.facebook.com/careers/jobs/a0I1200000L9ZjVEAS/"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "description": "Amazon is looking for a product manager to join our team. The ideal candidate will have experience with product development and a strong understanding of the e-commerce industry. This is a full-time position with competitive salary and benefits.",
+        "apply_link": "https://www.amazon.jobs/en/jobs/1328662/product-manager"
+      }
+]
